@@ -1,5 +1,7 @@
 # SALIBANK-1.0
-1.0 version of the SALIBANK application. 
+SALIBANK APPLICATION -> SALIBANK 1.0.py
+ARDUINO -> Dummy_signaling.ino
+
 the program only works with the correct setup (prototype), modifications are needed if open from other places.
 
 Remmber to install the python packages if you dont have it, look at the beginning of the "SALIBANK 1.0.py".
